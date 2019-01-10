@@ -1,0 +1,22 @@
+{
+  "name": "company",
+  "version": "1.0.0",
+  "description": "一个用于学习Node.js的公司官网demo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilinDan/node-company.git"
+  },
+  "author": "silinDan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilinDan/node-company/issues"
+  },
+  "homepage": "https://github.com/SilinDan/node-company#readme",
+  "keywords": []
+}
